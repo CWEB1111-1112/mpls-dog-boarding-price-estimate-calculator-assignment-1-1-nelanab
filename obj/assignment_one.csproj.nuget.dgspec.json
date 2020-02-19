@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fulchr\\Google Drive\\Dunwoody\\CWEB1111\\Spring 2020\\assignment_one\\assignment_one.csproj": {}
+    "C:\\Users\\nelanab\\OneDrive - dunwoody.edu\\Dunwoody\\Programming Fundamentals II\\assignment_one\\assignment_one.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fulchr\\Google Drive\\Dunwoody\\CWEB1111\\Spring 2020\\assignment_one\\assignment_one.csproj": {
+    "C:\\Users\\nelanab\\OneDrive - dunwoody.edu\\Dunwoody\\Programming Fundamentals II\\assignment_one\\assignment_one.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fulchr\\Google Drive\\Dunwoody\\CWEB1111\\Spring 2020\\assignment_one\\assignment_one.csproj",
+        "projectUniqueName": "C:\\Users\\nelanab\\OneDrive - dunwoody.edu\\Dunwoody\\Programming Fundamentals II\\assignment_one\\assignment_one.csproj",
         "projectName": "assignment_one",
-        "projectPath": "C:\\Users\\fulchr\\Google Drive\\Dunwoody\\CWEB1111\\Spring 2020\\assignment_one\\assignment_one.csproj",
-        "packagesPath": "C:\\Users\\fulchr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fulchr\\Google Drive\\Dunwoody\\CWEB1111\\Spring 2020\\assignment_one\\obj\\",
+        "projectPath": "C:\\Users\\nelanab\\OneDrive - dunwoody.edu\\Dunwoody\\Programming Fundamentals II\\assignment_one\\assignment_one.csproj",
+        "packagesPath": "C:\\Users\\nelanab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelanab\\OneDrive - dunwoody.edu\\Dunwoody\\Programming Fundamentals II\\assignment_one\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fulchr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nelanab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
