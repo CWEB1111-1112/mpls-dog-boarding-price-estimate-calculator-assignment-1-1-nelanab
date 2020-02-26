@@ -17,7 +17,7 @@ Please submit a zipped folder containing your c# console application and the URL
 - Program successfully compiles and runs
 - Program properly declares class properties/auto implemented properties including applicable constant variables.
 - Properly defined working  and toString methods that outputs data
--Logic of main method is correctly coded with consideration of created object instance
+- Logic of main method is correctly coded with consideration of created object instance
 - Object instance properly populated 
 - Welcome module and end of program module included in program
 
